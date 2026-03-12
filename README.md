@@ -177,4 +177,4 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
-*Project developed as part of M2 HPC coursework. Feedback and contributions welcome.*
+*Project developed as part of M1 HPC coursework. Feedback and contributions welcome.*
